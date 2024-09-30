@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edit_slip_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Slip Number" />
+
+    <EditText
+        android:id="@+id/edit_clothing_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Type of Clothing (e.g., Suit)" />
+
+    <EditText
+        android:id="@+id/edit_material"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Material (e.g., Cotton, Silk)" />
+
+    <EditText
+        android:id="@+id/edit_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Color (e.g., Red, Blue)" />
+
+    <Button
+        android:id="@+id/button_upload_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Attach Image"
+        android:layout_marginTop="16dp" />
+
+    <ImageView
+        android:id="@+id/image_preview"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="16dp"
+        android:scaleType="centerCrop"
+        android:visibility="gone" />
+
+    <EditText
+        android:id="@+id/edit_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Description"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/button_add_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Slip"
+        android:layout_marginTop="16dp" />
+</LinearLayout>

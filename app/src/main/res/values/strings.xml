@@ -1,0 +1,97 @@
+
+
+    <!-- Default Language (English) -->
+<resources>
+    <string name="welcome_message">Welcome to the Laundry App</string>
+    <string name="add_item">Add Item</string>
+    <string name="slip_number">Slip Number</string>
+    <string name="clothing_type">Clothing Type</string>
+    <string name="color">Color</string>
+    <string name="material">Material</string>
+    <string name="description">Description</string>
+    <string name="attach_image">Attach Image</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="settings">Settings</string>
+</resources>
+
+    <!-- Afrikaans -->
+<resources>
+<string name="app_name">Wasgoed App</string>
+<string name="welcome_message">Welkom by die Wasgoed App</string>
+<string name="add_item">Voeg Item By</string>
+<string name="slip_number">Slipnommer</string>
+<string name="clothing_type">Kledingsoort</string>
+<string name="color">Kleur</string>
+<string name="material">Materiaal</string>
+<string name="description">Beskrywing</string>
+<string name="attach_image">Voeg Beeld By</string>
+<string name="save">Stoor</string>
+<string name="clear">Duidelik</string>
+<string name="settings">Instellings</string>
+</resources>
+
+    <!-- isiZulu -->
+<resources>
+<string name="app_name">I-Laundry App</string>
+<string name="welcome_message">Wamkelekile ku-I-Laundry App</string>
+<string name="add_item">Faka Into</string>
+<string name="slip_number">Inombolo Yesliphu</string>
+<string name="clothing_type">Uhlobo Lwezingubo</string>
+<string name="color">Umbala</string>
+<string name="material">Imathiriyali</string>
+<string name="description">Incazelo</string>
+<string name="attach_image">Xhuma Isithombe</string>
+<string name="save">Gcina</string>
+<string name="clear">Sula</string>
+<string name="settings">Izilungiselelo</string>
+</resources>
+
+    <!-- isiXhosa -->
+<resources>
+<string name="app_name">I-Laundry App</string>
+<string name="welcome_message">Wamkelekile kwi-I-Laundry App</string>
+<string name="add_item">Yongeza Into</string>
+<string name="slip_number">Inombolo Yesliphu</string>
+<string name="clothing_type">Uhlobo Lwezingubo</string>
+<string name="color">Umbala</string>
+<string name="material">Imathiriyali</string>
+<string name="description">Incazelo</string>
+<string name="attach_image">Xhuma Isithombe</string>
+<string name="save">Gcina</string>
+<string name="clear">Sula</string>
+<string name="settings">Izilungiselelo</string>
+</resources>
+
+    <!-- Sesotho -->
+<resources>
+<string name="app_name">App ea Laundry</string>
+<string name="welcome_message">A le botsitsoe ho App ea Laundry</string>
+<string name="add_item">Faka Item</string>
+<string name="slip_number">Nomoro ea Slip</string>
+<string name="clothing_type">Mofuta oa Lihlooho</string>
+<string name="color">Mmala</string>
+<string name="material">Material</string>
+<string name="description">Tlhahisoleseding</string>
+<string name="attach_image">Etsa Setšoantšo</string>
+<string name="save">Boloka</string>
+<string name="clear">Hloekisa</string>
+<string name="settings">Settings</string>
+</resources>
+
+    <!-- Setswana -->
+<resources>
+<string name="app_name">Laundry App</string>
+<string name="welcome_message">Re a go amogela mo Laundry App</string>
+<string name="add_item">Tsaya Setlhopha</string>
+<string name="slip_number">Nomoro ya Slip</string>
+<string name="clothing_type">Mofuta wa Masela</string>
+<string name="color">Mmala</string>
+<string name="material">Material</string>
+<string name="description">Tlhaloso</string>
+<string name="attach_image">Kenya Setšoantšo</string>
+<string name="save">Boloka</string>
+<string name="clear">Hlakola</string>
+<string name="settings">Settings</string>
+</resources>
+
