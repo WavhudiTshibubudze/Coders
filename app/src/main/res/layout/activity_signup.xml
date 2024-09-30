@@ -15,7 +15,7 @@
         android:layout_marginTop="32dp"
         android:contentDescription="Laundry Logo"
         android:scaleType="centerInside"
-        android:src="@drawable/Appicon"
+        android:src="@drawable/appicon"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
